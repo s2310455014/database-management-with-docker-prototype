@@ -1,0 +1,1 @@
+az storage blob generate-sas --account-key 6suyv9K46ucsj7RnxXGuj2cXNg4qKntbRv6avq247JRQGCf1aqrPxewz5lNeVH5MqJIkltcWCdPWUWdpiflpcg== --account-name prdmedia --container-name private --name MyBlob --permissions w --expiry 2025-01-01T08:00Z
